@@ -1,0 +1,13 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="entities.Product"><rhs name\="entities.Product"/></lhs><lhs name\="java.time.temporal.Temporal"><rhs name\="java.time.LocalDateTime"/></lhs><lhs name\="java.time.temporal.TemporalAccessor"><rhs name\="java.time.LocalDateTime"/></lhs><lhs name\="java.time.temporal.TemporalAdjuster"><rhs name\="java.time.LocalDateTime"/></lhs><lhs name\="java.time.chrono.ChronoLocalDateTime"><rhs name\="java.time.LocalDateTime"/></lhs><lhs name\="entities.Contribuintes"><rhs name\="entities.PessoaFisica"/><rhs name\="entities.PessoaJuridica"/></lhs><lhs name\="model.entities.Account"><rhs name\="model.entities.Account"/></lhs><lhs name\="java.lang.Exception"><rhs name\="model.exceptions.WithdrawException"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="model.exceptions.WithdrawException"/></lhs><lhs name\="model.exceptions.WithdrawException"><rhs name\="model.exceptions.WithdrawException"/></lhs><lhs name\="model.entities.CarRental"><rhs name\="model.entities.CarRental"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=48,48,48
+eclipse.preferences.version=1
+markOccurrences=false
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
